@@ -1,4 +1,4 @@
-# The-Human-Vulnerability/Credential-Chaos
+# The-Human-Vulnerability/Credential-In-Game-Chaos
 
 ## Introduction
 
