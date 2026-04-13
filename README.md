@@ -1,4 +1,4 @@
-# The-Human-Vulnerability/Credential-In-Game-Chaos
+# The-Human-Vulnerability:Credential-In-Game-Chaos
 
 ## Introduction
 
@@ -22,7 +22,7 @@ I didn't waste time on inactive accounts. Instead, I looked for people who were 
 Because they reused passwords, once I got into their Twitter, I could often get into their Instashot and dating profiles too. This gave me access to their private conversations and secrets, which I could then use for "in-character" manipulation.
 
 3. My guessing patterns
-couse the server had no limit on wrong password attempts, I could sit there and try as many times as I wanted. I used a few simple tricks:
+cause the server had no limit on wrong password attempts, I could sit there and try as many times as I wanted. I used a few simple tricks:
 
 Using the username as the password.
 
