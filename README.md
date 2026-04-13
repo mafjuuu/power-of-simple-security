@@ -1,4 +1,4 @@
-# The-Human-Vulnerabilit/Digital-Chaos
+# The-Human-Vulnerability/Credential-Chaos
 
 ## Introduction
 
