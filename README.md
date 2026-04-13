@@ -52,11 +52,31 @@ It was only after I built this full overview that I decided to use the access to
 After 3-4 days of just sitting there and watching everything, I decided it was time to have some fun and stir things up. I started logging into the accounts I had collected and began trolling on the in-game Twitter.
 
 I didn't just post random things, though. I mixed it up: sometimes I’d post a normal-looking message to confuse people, but other times I’d post messages written in binary code or use a Caesar cipher.
+As part of the chaos, I also tested how players would react to a typical financial scam. Using one of the compromised accounts, I posted a fake lottery announcement to trick people into sending in-game money.
+<img width="1219" height="818" alt="image" src="https://github.com/user-attachments/assets/cd4f8b0a-06b2-4f87-b2d4-21a49a8e36c0" />
+(eng: "Grand BAHAMA MAMAS Lottery! Every $2000 transfer to account 932913 = Free food at the club UNTIL THE END OF THE YEAR. (Only for the first 10 winners!")
 
 <img width="665" height="824" alt="image" src="https://github.com/user-attachments/assets/3433616b-26e6-49e0-b70d-c1b65b2b1f5b" />
 <img width="1408" height="653" alt="image" src="https://github.com/user-attachments/assets/b45d4f79-0b42-4f72-a6d3-f9a696eebda5" />
 (In the picture: "I'm a pink gay" (in polish))
 
-
+## Players Reaction
 
 The reaction was almost instant. People on the server started freaking out. The conversation quickly moved over to the official Discord, where everyone was arguing about the "weird stuff" happening on Twitter. Since they couldn't explain how so many accounts were compromised at once, they were convinced there was a "cheater" on the server using some kind of hack. They had no idea it was actually just a result of their own weak passwords.
+
+<img width="642" height="676" alt="image" src="https://github.com/user-attachments/assets/677e589b-d50f-411a-b60e-83bce6c7e3a8" />
+
+## The Admin Response
+
+As the chaos on Twitter peaked, the administration finally stepped in. I received an official warning on the server with a simple but serious message asking me to join a private voice channel on Discord for an immediate talk with the staff.
+
+They had been monitoring player activity and likely noticed I was constantly active on the in-game phone and social media apps across multiple different accounts. When I joined the channel, the administrator asked me to share my screen. They were convinced that I had managed to hack into the server’s database to steal user credentials.
+
+The Explanation
+I showed them everything. I explained that I didn't use any scripts, SQL injection, or backdoors. I simply demonstrated my "guessing" method and showed them the database of accounts I had built purely through: Identifying active targets, Exploiting the lack of login attempt limits and Brute - forcing weak/repetitive passwords
+
+The Resolution
+Once the admins realized that the server's database was secure and that the "breach" was entirely caused by weak user security and poor password hygiene, the situation changed. I didn't get banned because I hadn't broken any technical rules or used illegal software. Instead, I had exposed a massive human-factor vulnerability that they weren't aware of.
+
+
+
